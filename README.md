@@ -5,7 +5,7 @@ It fetches data from the **Spoonacular API** and also supports a **local fallbac
 
 ---
 
-## 🚀 Features
+##  Features
 - Search recipes by entering ingredients.
 - Displays:
   - Recipe Name
