@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "title": "Grilled Chicken Breast",
+      "image": "https://images.unsplash.com/photo-1604908554079-235cde5e4b4b",
+      "link": "https://www.eatingwell.com/recipe/276333/grilled-chicken-breast/",
+      "calories": "284 kcal",
+      "protein": "53 g",
+      "carbs": "0 g",
+      "fat": "6 g"
+    },
+    {
+      "title": "Fresh Garden Salad",
+      "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9",
+      "link": "https://www.allrecipes.com/recipe/14447/fresh-garden-salad/",
+      "calories": "150 kcal",
+      "protein": "5 g",
+      "carbs": "12 g",
+      "fat": "9 g"
+    },
+    {
+      "title": "Vegetable Pasta Primavera",
+      "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e",
+      "link": "https://www.simplyrecipes.com/recipes/pasta_primavera/",
+      "calories": "410 kcal",
+      "protein": "14 g",
+      "carbs": "72 g",
+      "fat": "10 g"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+body {
+    background-color: #FFF7ED;         
+}
+h1 {
+    color: #10B981;
+}
+.card {
+    border: none;
+}
+.btn-success {
+    background-color: #10B981;
+    border: none;
+}
+.btn-success:hover {
+    background-color: #059669;
+}
